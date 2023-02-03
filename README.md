@@ -1,2 +1,2 @@
-# Project-Flow
+# Project-FLOW
 Jewellery webpage
